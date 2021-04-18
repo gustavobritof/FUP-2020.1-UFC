@@ -21,7 +21,9 @@ Operações
  restará de ração no saco após cinco dias (em gramas). 
  
  
- - - - - - - - - - - -Ex:
+ - - - - - - - - - - -
+ 
+Ex:
 >> 2.5 200 
 
 << 500
